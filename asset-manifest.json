@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Prova2LP2/static/css/main.241951ba.css",
-    "main.js": "/Prova2LP2/static/js/main.726e9750.js",
-    "index.html": "/Prova2LP2/index.html",
-    "main.241951ba.css.map": "/Prova2LP2/static/css/main.241951ba.css.map",
-    "main.726e9750.js.map": "/Prova2LP2/static/js/main.726e9750.js.map"
+    "main.css": "/FrontendBCC/static/css/main.241951ba.css",
+    "main.js": "/FrontendBCC/static/js/main.726e9750.js",
+    "index.html": "/FrontendBCC/index.html",
+    "main.241951ba.css.map": "/FrontendBCC/static/css/main.241951ba.css.map",
+    "main.726e9750.js.map": "/FrontendBCC/static/js/main.726e9750.js.map"
   },
   "entrypoints": [
     "static/css/main.241951ba.css",
