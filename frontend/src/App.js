@@ -13,7 +13,7 @@ function App() {
           <Routes>
             <Route path="/usuarios" element={<TelaUsuario />} />
             <Route path="/batepapo" element={<TelaBatepapo />} />
-            <Route path="/" element={<TelaMenu />} />
+            <Route path="/FrontendBCC" element={<TelaMenu />} />
           </Routes>
         </BrowserRouter>
       </Provider>
